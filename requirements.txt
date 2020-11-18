@@ -65,7 +65,7 @@ nbformat==5.0.3
 nbrmd==0.6.0
 nbsrc==0.4.5
 netifaces==0.10.4
-notebook==6.0.2
+notebook==6.1.5
 oauthlib==3.1.0
 olefile==0.46
 pamela==1.0.0
